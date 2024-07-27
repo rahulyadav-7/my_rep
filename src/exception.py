@@ -1,6 +1,6 @@
 import sys
 import logging
-from logger import LOG_FILE_PATH
+from src.logger import LOG_FILE_PATH
 
 logger=logging.getLogger(__name__)
 
