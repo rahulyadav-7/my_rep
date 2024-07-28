@@ -1,7 +1,0 @@
-Data checks to perform
-1. checks missing values
-2. checks duplicates
-3. check data type
-4. check the number of unique values of each column
-5. check statistics of data set
-6. check various categories present in the different categorical columns
